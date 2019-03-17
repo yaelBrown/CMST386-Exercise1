@@ -1,0 +1,39 @@
+.border {
+  border: 1px solid #000;
+}
+
+/* 
+  Rollover Nav
+*/
+
+.rolloverNav ul {
+  padding-left: 0;
+  background-color: #3399ff;
+  color: #fff;
+  float: left;
+  width: 100%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.rolloverNav ul li {
+  display: inline;
+}
+
+.rolloverNav ul li a {
+  padding: .2em 1em;
+  background-color: #3399ff;
+  color: white;
+  text-decoration: none;
+  float: center;
+  border-right: 1px solid #fff;
+}
+
+#home {
+  border-left: 1px solid #fff;
+}
+
+.rolloverNav ul li a:hover {
+  background-color: #99ccff;
+  color: #fff;
+}
