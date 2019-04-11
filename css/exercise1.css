@@ -75,3 +75,32 @@ img {
 .classHeading {
   margin-bottom: 50px;
 }
+
+/*
+  Exercise 2 Content
+*/ 
+
+.video, .formArea, .seo, .validation {
+  margin: 100px 0px 100px 0px;
+}
+
+.formFields {
+  margin-bottom: 100px;
+}
+
+div.formFields {
+  display: table;
+}
+
+div.formRow {
+  display: table-row;
+}
+
+label, input {
+  display: table-cell;
+  margin-bottom: 10px;
+}
+
+label {
+  padding-right: 15px;
+}
